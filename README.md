@@ -36,11 +36,11 @@ Nihongopedia adalah platform pembelajaran bahasa Jepang yang menyediakan berbaga
 ## 🤝 Kontribusi
 Kami membuka kesempatan bagi siapa saja yang ingin berkontribusi dalam pengembangan Nihongopedia. Silakan fork repository ini dan buat pull request untuk perbaikan atau fitur baru.
 
-## 📜 Lisensi
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+## 📜 Copyright
+Proyek ini memiliki Copyright. tidak dibenarkan mengambil/mengaku materi dari Nihongopedia
 
 ## 📩 Kontak
-Untuk pertanyaan atau saran, silakan hubungi kami melalui email: contact@nihongopedia.com atau melalui forum diskusi di dalam aplikasi.
+Untuk pertanyaan atau saran, silakan hubungi kami melalui email: nihongopedia123@gmail.com atau melalui forum diskusi di dalam aplikasi.
 
 ---
 🎌 **Selamat belajar bahasa Jepang!** 🎌
